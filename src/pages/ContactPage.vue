@@ -8,10 +8,14 @@
         <h1 class="text-white text-center">Get in Touch</h1>
       </div>
       <div class="col-12 d-flex justify-content-center text-center" >
-        <p class="slide-divide" ></p>
+        <section class="slide-divide" >
+          <div class="dot"></div>
+        </section>
       </div>
     </section>
   </div>
+  <div id="overlay-effect" class="animate-up"></div>
+
 </template>
 
 

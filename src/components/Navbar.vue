@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg navbar-dark bg-black px-3">
     <router-link class="navbar-brand d-flex" :to="{ name: 'Home' }">
       <div class="d-flex flex-column align-items-center">
-        <h1>Home</h1>
+        <p class="fs-1">Home</p>
       </div>
     </router-link>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
@@ -12,7 +12,7 @@
     <div class="collapse navbar-collapse" id="navbarText">
       <ul class="navbar-nav me-auto">
         <li>
-          <router-link :to="{ name: 'About' }" class="btn text-white selectable">
+          <router-link :to="{ name: 'About' }" class="btn text-white selectable animateButton">
             About
           </router-link>
         </li>
@@ -33,15 +33,34 @@
         </li>
       </ul>
       <!-- LOGIN COMPONENT HERE -->
+
     </div>
   </nav>
 </template>
 
 <script>
+import { watch, watchEffect } from "vue";
+import { useRoute } from "vue-router";
+import { logger } from "../utils/Logger";
+
 
 export default {
   setup() {
-    return {}
+    const route = useRoute();
+    const animateButton = document.getElementById("animateButton");
+    const overlayEffect = document.getElementById("overlay-effect");
+    watchEffect(()=>{
+      route.params
+      
+    })
+    return {
+      loadScreen(){
+        animateButton.addEventListener("click", () => {
+    // Toggle the animate-up class to trigger or stop the animation
+    overlayEffect.classList.toggle("animate-up");
+});
+      }
+    }
   }
 }
 </script>
@@ -66,4 +85,5 @@ a:hover {
     height: 64px;
   }
 }
+
 </style>

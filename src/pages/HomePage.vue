@@ -1,16 +1,22 @@
 <template>
 <div class="container-fluid bg-black">
-  <section class="row" style="height: 70vh;">
-    <div class="col-12 text-white fs-2 d-flex justify-content-center align-items-center">Jasper Delight</div>
+  <section class="row" style="height: 60vh;">
+    <div class="col-12 text-white fs-2 d-flex justify-content-center align-items-center"><h1>Jasper Delight</h1></div>
+    <SocialsComponent/>
   </section>
+  <div id="overlay-effect" class="animate-down"></div>
 </div>
+
 </template>
 
 <script>
+import SocialsComponent from "../components/SocialsComponent.vue";
+
 export default {
-  setup() {
-    return {}
-  }
+    setup() {
+        return {};
+    },
+    components: { SocialsComponent }
 }
 </script>
 
