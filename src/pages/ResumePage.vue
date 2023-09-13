@@ -12,18 +12,18 @@
           <div class="dot"></div>
         </section>
       </div>
-      <div class="col-6 d-flex justify-content-end">
+      <div class="col-md-6 col-12 d-flex justify-content-end">
         <section class="row justify-content-center">
           <div class="col-10"><h2 class="text-white">Education</h2></div>
-          <div class="col-10">
-            <section class="card bg-grey" style="height: 30vh;">
+          <div class="col-md-10 col-12">
+            <section class="card bg-grey" style="height: 45vh;">
               <div class="bold fs-4 px-3">Full-Stack Immersive Course</div>
               <div class="italic bold px-3">CodeWorks 2023</div>
               <div class="p-3 px-3">Over 500 hours developing and testing fullstack applications while implementing scrum and agile practices in a team enviroment. Learned different back end languages including node and express, C# and Dotnet. While using a JavaScript front end with Vue.js framework.</div>
             </section>
           </div>
-          <div class="col-10">
-            <section class="card bg-grey my-2" style="height: 30vh;">
+          <div class="col-md-10 col-12">
+            <section class="card bg-grey my-2" style="height: 45vh;">
               <div class="bold fs-4 px-3">Computer Science Degree</div>
               <div class="italic bold px-3">College of Western Idaho 2018-2020</div>
               <div class="p-3">Started pursuing a Computer Science degree as part time while working. But not long after starting school I had a career change that left me with less time for school so i ended up not enrolling the next semester.</div>
@@ -38,25 +38,25 @@
           </div> -->
         </section>
       </div>
-      <div class="col-6 d-flex justify-content-end">
+      <div class="col-md-6 col-12 d-flex justify-content-end">
         <section class="row justify-content-center">
-          <div class="col-10"><h2 class="text-white">Applications</h2></div>
-          <div class="col-10">
-            <section class="card bg-grey" style="height: 20vh;">
+          <div class="col-md-10 col-12"><h2 class="text-white">Applications</h2></div>
+          <div class="col-md-10 col-12">
+            <section class="card bg-grey" style="height: 30vh;">
               <div class="bold fs-4 px-3">CodeFitness</div>
               <div class="italic bold px-3">CodeWorks 2023</div>
               <div class="px-3">Application to create routines and search a exercise API for different exercises. Able to save exercises to routines as well as many other features. Node + Express BackEnd, Vue.js FrontEnd, mongoDB DataBase.</div>
             </section>
           </div>
-          <div class="col-10">
-            <section class="card bg-grey my-2" style="height: 20vh;">
+          <div class="col-md-10 col-12">
+            <section class="card bg-grey my-2" style="height: 30vh;">
               <div class="bold fs-4 px-3">Keeper</div>
               <div class="italic bold px-3">CodeWorks 2023</div>
               <div class="px-3">Application where users are able to create albums and photos. Then users can save other users photos as well as their own to their albums. Private vaults supported only viewable by creator. C# + DotNet BackEnd, Vue.js FrontEnd with mySQL DataBase.</div>
             </section>
           </div>
-          <div class="col-10">
-            <section class="card bg-grey" style="height: 20vh;">
+          <div class="col-md-10 col-12">
+            <section class="card bg-grey" style="height: 30vh;">
               <div class="bold fs-4 px-3">AllSpice</div>
               <div class="italic bold px-3">CodeWorks 2023</div>
               <div class="px-3">Application where users are able to create recipes and share with other users. Can favorite recipes to your account to easily access. C# + DotNet BackEnd, Vue.js FrontEnd with mySQL DataBase.</div>
@@ -132,7 +132,7 @@
       <div class="col-4 text-white">
         <ul>
           <li>Friendly</li>
-          <li>Always on Task</li>
+          <li>Great at Multitasking</li>
           <li>Positive</li>
           <li>Communication Skills</li>
           <li>Flexible</li>
@@ -141,7 +141,6 @@
       <div class="col-4 text-white">
         <ul>
           <li>Committed</li>
-          <li>Great at Multitasking</li>
           <li>Enthusiasm</li>
           <li>Innovation</li>
           <li>Great working in a team</li>

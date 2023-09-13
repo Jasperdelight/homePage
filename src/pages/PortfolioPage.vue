@@ -23,7 +23,7 @@
         <a href="https://i.imgur.com/VPSAN3i.png" target="_blank" alt="tower3"><img src="https://i.imgur.com/VPSAN3i.png" class="img-fluid" alt=""></a>
       </div>
 
-      <h2 class="text-white text-center">CodeFitness</h2>
+      <h2 class="text-white text-center"><a href="https://codefitness-16iw.onrender.com/" title="Takes a while to load (due to OnRender Site hosted on)" target="_blank">CodeFitness</a></h2>
       <div class="col-4">
         <a href="https://i.imgur.com/ST1Xoci.png" target="_blank" alt="codeFitness1"><img src="https://i.imgur.com/ST1Xoci.png" class="img-fluid" alt=""></a>
       </div>
@@ -33,7 +33,7 @@
       <div class="col-4">
         <a href="https://i.imgur.com/NHdJKGV.png" target="_blank" alt="codeFitness3"><img src="https://i.imgur.com/NHdJKGV.png" class="img-fluid" alt=""></a>
       </div>
-      <h2 class="text-white text-center">Tower</h2>
+      <h2 class="text-white text-center"><a href="https://jasperdelightdonerighthomepage.work/#/" target="_blank">Tower</a></h2>
       <div class="col-4">
         <a href="https://i.imgur.com/pw1WXl2.png" target="_blank" alt="tower1"><img src="https://i.imgur.com/pw1WXl2.png" class="img-fluid" alt=""></a>
       </div>

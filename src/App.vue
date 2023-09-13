@@ -67,8 +67,9 @@ width: 10vh;
     display: block;
     position: fixed;
     top: 0;
+    left: -50%;
     transform: translateY(100%);
-    width: 100%;
+    width: 150%;
     z-index: 99999;
 }
 #overlay-effect.animate-up {
