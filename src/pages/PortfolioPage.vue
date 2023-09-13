@@ -13,13 +13,13 @@
         </section>
       </div>
       <div class="col-4 my-3">
-        <a href="https://i.imgur.com/cfg4Ruu.png" target="_blank" alt="tower1"><img src="https://i.imgur.com/cfg4Ruu.png" class="img-fluid" alt=""></a>
+        <a href="https://i.imgur.com/pw1WXl2.png" target="_blank" alt="tower1"><img src="https://i.imgur.com/pw1WXl2.png" class="img-fluid" alt=""></a>
       </div>
       <div class="col-4 my-3">
-        <a href="https://i.imgur.com/MicY0Cd.png" target="_blank" alt="tower2"><img src="https://i.imgur.com/MicY0Cd.png" class="img-fluid" alt=""></a>
+        <a href="https://i.imgur.com/iK3A0oZ.png" target="_blank" alt="tower2"><img src="https://i.imgur.com/iK3A0oZ.png" class="img-fluid" alt=""></a>
       </div>
       <div class="col-4 my-3">
-        <a href="https://i.imgur.com/Gmtu2C3.png" target="_blank" alt="tower3"><img src="https://i.imgur.com/Gmtu2C3.png" class="img-fluid" alt=""></a>
+        <a href="https://i.imgur.com/Um3N7cp.png" target="_blank" alt="tower3"><img src="https://i.imgur.com/Um3N7cp.png" class="img-fluid" alt=""></a>
       </div>
       <div class="col-4">
         <a href="https://i.imgur.com/ST1Xoci.png" target="_blank" alt="codeFitness1"><img src="https://i.imgur.com/ST1Xoci.png" class="img-fluid" alt=""></a>

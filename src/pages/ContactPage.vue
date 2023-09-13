@@ -14,16 +14,20 @@
       </div>
     </section>
   </div>
+  <SocialsComponent/>
   <div id="overlay-effect" class="animate-up"></div>
 
 </template>
 
 
 <script>
+import SocialsComponent from "../components/SocialsComponent.vue";
+
 export default {
-  setup(){
-    return {}
-  }
+    setup() {
+        return {};
+    },
+    components: { SocialsComponent }
 }
 </script>
 
