@@ -22,11 +22,6 @@ const routes = [
     component: loadPage('ContactPage')
   },
   {
-    path: '/home',
-    name: 'Home',
-    component: loadPage('HomePage')
-  },
-  {
     path: '/portfolio',
     name: 'Portfolio',
     component: loadPage('PortfolioPage')
