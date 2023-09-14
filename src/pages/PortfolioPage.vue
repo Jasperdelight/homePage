@@ -12,7 +12,7 @@
           <div class="dot"></div>
         </section>
       </div>
-      <h2 class="text-white text-center mt-2">Keeper</h2>
+      <h2 class="text-white text-center mt-2">Keeper <a href="https://github.com/Jasperdelight/keepr" target="_blank"> <i class="mdi mdi-github"></i> </a></h2>
       <div class="col-4 my-3">
         <a href="https://i.imgur.com/QvivDFZ.jpg" target="_blank" alt="tower1"><img src="https://i.imgur.com/QvivDFZ.jpg" class="img-fluid" alt=""></a>
       </div>
@@ -23,7 +23,7 @@
         <a href="https://i.imgur.com/VPSAN3i.png" target="_blank" alt="tower3"><img src="https://i.imgur.com/VPSAN3i.png" class="img-fluid" alt=""></a>
       </div>
 
-      <h2 class="text-white text-center"><a href="https://codefitness-16iw.onrender.com/" title="Takes a while to load (due to OnRender Site hosted on)" target="_blank">CodeFitness</a></h2>
+      <h2 class="text-white text-center"><a href="https://codefitness-16iw.onrender.com/" title="Takes a while to load (due to OnRender Site hosted on)" target="_blank">CodeFitness</a> <a href="https://github.com/EwanStubblefield-Allen/CodeFitness" target="_blank"> <i class="mdi mdi-github"></i> </a></h2>
       <div class="col-4">
         <a href="https://i.imgur.com/ST1Xoci.png" target="_blank" alt="codeFitness1"><img src="https://i.imgur.com/ST1Xoci.png" class="img-fluid" alt=""></a>
       </div>
@@ -33,7 +33,7 @@
       <div class="col-4">
         <a href="https://i.imgur.com/NHdJKGV.png" target="_blank" alt="codeFitness3"><img src="https://i.imgur.com/NHdJKGV.png" class="img-fluid" alt=""></a>
       </div>
-      <h2 class="text-white text-center"><a href="https://jasperdelightdonerighthomepage.work/#/" target="_blank">Tower</a></h2>
+      <h2 class="text-white text-center"><a href="https://jasperdelightdonerighthomepage.work/#/" target="_blank">Tower <a href="https://github.com/Jasperdelight/towerCheckpoint" target="_blank"> <i class="mdi mdi-github"></i> </a></a></h2>
       <div class="col-4">
         <a href="https://i.imgur.com/pw1WXl2.png" target="_blank" alt="tower1"><img src="https://i.imgur.com/pw1WXl2.png" class="img-fluid" alt=""></a>
       </div>
@@ -43,7 +43,7 @@
       <div class="col-4">
         <a href="https://i.imgur.com/Um3N7cp.png" target="_blank" alt="tower3"><img src="https://i.imgur.com/Um3N7cp.png" class="img-fluid" alt=""></a>
       </div>
-      <h2 class="text-white text-center">AllSpice</h2>
+      <h2 class="text-white text-center">AllSpice <a href="https://github.com/Jasperdelight/allSpice" target="_blank"> <i class="mdi mdi-github"></i> </a></h2>
       <div class="col-4">
         <a href="https://i.imgur.com/G7HajPV.jpg" target="_blank" alt="codeFitness1"><img src="https://i.imgur.com/G7HajPV.jpg" class="img-fluid" alt=""></a>
       </div>
