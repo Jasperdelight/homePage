@@ -12,7 +12,7 @@
           <div class="dot"></div>
         </section>
       </div>
-      <h2 class="text-white text-center mt-2">Keeper <a href="https://github.com/Jasperdelight/keepr" target="_blank"> <i class="mdi mdi-github"></i> </a></h2>
+      <h2 class="text-white text-center mt-2"><a href="https://jasperdelightdonerighthomepage.work/#/" target="_blank"> Keeper </a> <a href="https://github.com/Jasperdelight/keepr" target="_blank"> <i class="mdi mdi-github"></i> </a></h2>
       <div class="col-4 my-3">
         <a href="https://i.imgur.com/QvivDFZ.jpg" target="_blank" alt="tower1"><img src="https://i.imgur.com/QvivDFZ.jpg" class="img-fluid" alt=""></a>
       </div>
@@ -33,7 +33,7 @@
       <div class="col-4">
         <a href="https://i.imgur.com/NHdJKGV.png" target="_blank" alt="codeFitness3"><img src="https://i.imgur.com/NHdJKGV.png" class="img-fluid" alt=""></a>
       </div>
-      <h2 class="text-white text-center"><a href="https://jasperdelightdonerighthomepage.work/#/" target="_blank">Tower <a href="https://github.com/Jasperdelight/towerCheckpoint" target="_blank"> <i class="mdi mdi-github"></i> </a></a></h2>
+      <h2 class="text-white text-center">Tower <a href="https://github.com/Jasperdelight/towerCheckpoint" target="_blank"> <i class="mdi mdi-github"></i></a></h2>
       <div class="col-4">
         <a href="https://i.imgur.com/pw1WXl2.png" target="_blank" alt="tower1"><img src="https://i.imgur.com/pw1WXl2.png" class="img-fluid" alt=""></a>
       </div>
