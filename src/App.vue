@@ -83,13 +83,13 @@ width: 10vh;
     transform: translateY(0%);
 }
 
-  40% {
-    transform: translateY(26%);
-}
-
-  80% {
+  30% {
     transform: translateY(100%);
 }
+
+//   60% {
+//     transform: translateY(100%);
+// }
 100% {
     transform: translateY(200%);
 }

@@ -14,6 +14,7 @@ import SocialsComponent from "../components/SocialsComponent.vue";
 
 export default {
     setup() {
+      
         return {};
     },
     components: { SocialsComponent }

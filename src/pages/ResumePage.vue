@@ -5,7 +5,7 @@
         <p class="text-white d-flex align-items-end justify-content-center" style="height: 10vh;">Check out my Resume</p>
       </div>
       <div class="col-12">
-        <h1 class="text-white text-center">Resume <a href="https://docs.google.com/document/d/1Y54YMec-Jw_kEM0jfOv4dBI7vSOf5hpw_muShCWnzx8/edit?usp=sharing" target="_blank" style="color: red;"><i class="mdi mdi-folder"></i></a></h1>
+        <h1 class="text-white text-center">Resume <a href="https://docs.google.com/document/d/1Y54YMec-Jw_kEM0jfOv4dBI7vSOf5hpw_muShCWnzx8/edit?usp=sharing" target="_blank" style="color: red;"><i title="See my Resume!" class="mdi mdi-folder"></i></a></h1>
       </div>
       <div class="col-12 d-flex justify-content-center text-center" >
         <section class="slide-divide" >
