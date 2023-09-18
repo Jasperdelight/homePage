@@ -1,5 +1,5 @@
 <template>
-  <header class="d-flex justify-content-center bg-black">
+  <header class="d-flex justify-content-center bg-black sticky-top">
     <Navbar />
   </header>
   <main class="bg-black">

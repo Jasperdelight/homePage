@@ -1,7 +1,7 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-dark bg-black px-3">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-black px-3 ">
     <router-link class="navbar-brand d-flex" :to="{ name: 'Home' }">
-      <div class="d-flex flex-column align-items-center">
+      <div @click="returnToTop()" class="d-flex flex-column align-items-center">
         <p class="fs-1">Home</p>
       </div>
     </router-link>
@@ -59,6 +59,10 @@ export default {
     // Toggle the animate-up class to trigger or stop the animation
     overlayEffect.classList.toggle("animate-up");
 });
+      },
+      returnToTop(){
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
       }
     }
   }
