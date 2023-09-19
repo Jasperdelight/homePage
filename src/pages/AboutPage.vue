@@ -24,7 +24,7 @@
           <div class="col-md-10 col-12 my-2" style="border-bottom: 5px solid red;"></div>
           <div class="col-md-6 col-12"><p class="text-white"><span style="font-weight: bold;">Name:</span> Jasper Delight</p></div>
           <div class="col-md-6 col-12"><p class="text-white"><span style="font-weight: bold;">Email:</span> jasperdelightt@gmail.com</p></div>
-          <div class="col-md-6 col-12"><p class="text-white"><span style="font-weight: bold;">Age:</span> 30</p></div>
+          <div class="col-md-6 col-12"><p class="text-white"><span style="font-weight: bold;"></span></p></div>
           <div class="col-md-6 col-12"><p class="text-white"><span style="font-weight: bold;">From:</span> Boise, Idaho</p></div>
         </section>
       </div>
@@ -35,7 +35,9 @@
         <p class="text-white d-flex align-items-end justify-content-center" style="height: 10vh;">Check out my Resume</p>
       </div>
       <div class="col-12">
-        <h1 class="text-white text-center">Resume <a href="https://docs.google.com/document/d/1Y54YMec-Jw_kEM0jfOv4dBI7vSOf5hpw_muShCWnzx8/edit?usp=sharing" target="_blank" style="color: red;"><i title="See my Resume!" class="mdi mdi-folder"></i></a></h1>
+        <a  href="https://docs.google.com/document/d/1Y54YMec-Jw_kEM0jfOv4dBI7vSOf5hpw_muShCWnzx8/edit?usp=sharing" target="_blank" >
+          <h1 class=" text-center">Resume <i title="See my Resume!" class="mdi mdi-folder"></i></h1>
+        </a>
       </div>
       <div class="col-12 d-flex justify-content-center text-center" >
         <section class="slide-divide" >
@@ -94,87 +96,26 @@
           </div>
         </section>
       </div>
-      <div class="col-10 mt-4 text-white ms-5"><p>My Level of knowledge in some tools</p></div>
-      <div class="col-10 text-white ms-5"><h3>Languages</h3></div>
-      <div class="col-4 text-white">
-        <ul>
-          <li>Javascript</li>
-          <li>Vue.Js</li>
-          <li>React</li>
-          <li>HTML</li>
-          <li>CSS</li>
-        </ul>
+      <div class="col-md-4 col-12 text-white">
+        <div class="col-12 text-white text-center m-2"><h3>Languages</h3></div>
+        <div class="col-12">
+          <p>Dotnet | C# | MySQL | SQL DataBases | Dapper | JavaScript | Vue.js | React | HTML | CSS | Node.Js | Express | MongoDB | Mongoose</p>
+        </div>
       </div>
-      <div class="col-4 text-white">
-        <ul>
-          <li>Dotnet</li>
-          <li>C#</li>
-          <li>MySQL</li>
-          <li>SQL Databases</li>
-          <li>Dapper</li>
-        </ul>
+      <div class="col-md-4 col-12 text-white">
+        <div class="col-12 text-white text-center m-2"><h3>Technical Skills</h3></div>
+        <div>
+          <div class="col-12">
+          <p>UI/UX | Solution Design | Fraud Prevention | Technical Experience | Computer Literacy | Command Line | MVC | OOP | Git | Git Action | Docker / Containers | Data Streaming | AWS </p>
+        </div>
+
+        </div>
       </div>
-      <div class="col-4 text-white">
-        <ul>
-          <li>Node.Js</li>
-          <li>Express</li>
-          <li>MongoDB</li>
-          <li>Mongoose</li>
-        </ul>
-      </div>
-      <div class="col-10 text-white ms-5"><h3>Technical Skills</h3></div>
-      <div class="col-4 text-white">
-        <ul>
-          <li>UI/UX</li>
-          <li>Solution Design</li>
-          <li>Fraud Prevention</li>
-          <li>Technical Experience</li>
-          <li>Computer Literacy</li>
-        </ul>
-      </div>
-      <div class="col-4 text-white">
-        <ul>
-          <li>Command Line</li>
-          <li>MVC</li>
-          <li>OOP</li>
-          <li>Git</li>
-          <li>Git Action</li>
-        </ul>
-      </div>
-      <div class="col-4 text-white">
-        <ul>
-          <li>Docker / Containers</li>
-          <li>Data Streaming</li>
-          <li>AWS EC2 Instances</li>
-          <li>Ubuntu</li>
-        </ul>
-      </div>
-      <div class="col-10 text-white ms-5"><h3>Skills</h3></div>
-      <div class="col-4 text-white">
-        <ul>
-          <li>Hard Working</li>
-          <li>Problem Solver</li>
-          <li>Life Long Learner</li>
-          <li>Determined</li>
-          <li>Confident</li>
-        </ul>
-      </div>
-      <div class="col-4 text-white">
-        <ul>
-          <li>Friendly</li>
-          <li>Great at Multitasking</li>
-          <li>Positive</li>
-          <li>Communication Skills</li>
-          <li>Flexible</li>
-        </ul>
-      </div>
-      <div class="col-4 text-white">
-        <ul>
-          <li>Committed</li>
-          <li>Enthusiasm</li>
-          <li>Innovation</li>
-          <li>Great working in a team</li>
-        </ul>
+      <div class="col-md-4 col-12 text-white">
+        <div class="col-12 text-white text-center m-2"><h3>Skills</h3></div>
+        <div class="col-12">
+          <p>Hard Working | Problem Solver | Life Long Learner | Determined | Confident | Friendly | Great at Multitasking | Positive | Communication Skills | Flexible | Committed | Enthusiasm | Innovation | Great working in a team</p>
+        </div>
       </div>
     </section>
 
@@ -240,8 +181,9 @@
       </div>
       <div class="col-12">
         
-        <h1 class="text-white text-center">Get in Touch <a class="" href="https://share.hsforms.com/18SBh45f0Qfu3RSN3BH2x_wq43x5" target="_blank"><i title="Send me and Email!" class="mdi mdi-email  fs-2" style="color: red
-        ;"></i></a></h1>
+        <a class="" href="https://share.hsforms.com/18SBh45f0Qfu3RSN3BH2x_wq43x5" target="_blank">
+          <h1 class=" text-center">Get in Touch <i title="Send me and Email!" class="mdi mdi-email  fs-2" ></i></h1>
+    </a>
       </div>
       <div class="col-12 d-flex justify-content-center text-center" >
         <section class="slide-divide" >

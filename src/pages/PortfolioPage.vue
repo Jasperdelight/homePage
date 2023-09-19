@@ -62,8 +62,9 @@
       </div>
       <div class="col-12">
         
-        <h1 class="text-white text-center">Get in Touch <a class="" href="https://share.hsforms.com/18SBh45f0Qfu3RSN3BH2x_wq43x5" target="_blank"><i title="Send me and Email!" class="mdi mdi-email  fs-2" style="color: red
-        ;"></i></a></h1>
+        <a class="" href="https://share.hsforms.com/18SBh45f0Qfu3RSN3BH2x_wq43x5" target="_blank">
+          <h1 class=" text-center">Get in Touch <i title="Send me and Email!" class="mdi mdi-email  fs-2" ></i></h1>
+    </a>
       </div>
       <div class="col-12 d-flex justify-content-center text-center" >
         <section class="slide-divide" >
