@@ -2,7 +2,7 @@
     <div class="container-fluid">
     <section class="row">
       <div class="col-12">
-        <p class="text-white d-flex align-items-end justify-content-center" style="height: 10vh;">Check out my Resume</p>
+        <p class="text-white d-flex align-items-end justify-content-center caveat-font fs-4" style="height: 10vh;">Check out my Resume</p>
       </div>
       <div class="col-12">
         <a  href="https://docs.google.com/document/d/1Y54YMec-Jw_kEM0jfOv4dBI7vSOf5hpw_muShCWnzx8/edit?usp=sharing" target="_blank" >
@@ -91,14 +91,14 @@
     
     <section class="row">
       <div class="col-12">
-        <p class="text-white d-flex align-items-end justify-content-center" style="height: 10vh;">Showcasing some of my best work</p>
+        <p class="text-white d-flex align-items-end justify-content-center caveat-font fs-4" style="height: 10vh;">Showcasing some of my best work</p>
       </div>
       <div class="col-12">
         <h1 class="text-white text-center">Portfolio</h1>
       </div>
       <div class="col-12 d-flex justify-content-center text-center" >
-        <section class="slide-divide" >
-          <div class="dot"></div>
+        <section class="slide-divide1" >
+          <div class="dot1"></div>
         </section>
       </div>
       <h2 class="text-white text-center mt-2"><a title="Link to Live Hosted Site" href="https://jasperdelightdonerighthomepage.work/#/" target="_blank"> Keeper </a> <a href="https://github.com/Jasperdelight/keepr" target="_blank"> <i title="GitHub Page" class="mdi mdi-github"></i> </a></h2>
@@ -147,7 +147,7 @@
 
     <section class="row">
       <div class="col-12">
-        <p class="text-white d-flex align-items-end justify-content-center" style="height: 10vh;">Feel free to contact me anytime</p>
+        <p class="text-white d-flex align-items-end justify-content-center caveat-font fs-4" style="height: 10vh;">Feel free to contact me anytime</p>
       </div>
       <div class="col-12">
         
@@ -160,9 +160,10 @@
           <div class="dot"></div>
         </section>
       </div>
-      <div class="col-12" style="height: 80vh;"></div>
+      <div class="col-12" style="height: 80vh;">
+        <SocialsComponent/>
+      </div>
     </section>
-
   </div>
   <div id="overlay-effect" class="animate-up"></div>
 

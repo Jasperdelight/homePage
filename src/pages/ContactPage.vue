@@ -2,7 +2,7 @@
     <div class="container-fluid">
     <section class="row">
       <div class="col-12">
-        <p class="text-white d-flex align-items-end justify-content-center" style="height: 10vh;">Feel free to contact me anytime</p>
+        <p class="text-white d-flex align-items-end justify-content-center caveat-font fs-4" style="height: 10vh;">Feel free to contact me anytime</p>
       </div>
       <div class="col-12">
         <a class="" href="https://share.hsforms.com/18SBh45f0Qfu3RSN3BH2x_wq43x5" target="_blank">

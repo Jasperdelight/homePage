@@ -24,7 +24,12 @@ export default {
 </script>
 <style lang="scss">
 @import "./assets/scss/main.scss";
-
+.lobster-font{
+  font-family: 'Lobster', cursive;
+}
+.caveat-font{
+  font-family: 'Caveat', cursive;
+}
 :root{
   --main-height: calc(100vh - 32px - 64px);
 }
@@ -40,10 +45,24 @@ position: relative;
 border-top: 5px solid rgb(255, 102, 0);
 width: 10vh;
 }
+.slide-divide1{
+position: relative;
+border-top: 5px solid #fbcf33;
+width: 10vh;
+}
 .dot {
             width: 15px;
             height: 15px;
             background-color: var(--bs-warning);
+            border-radius: 50%;
+            top: -10px;
+            position: absolute;
+            animation: moveDot 4s linear infinite;
+        }
+.dot1 {
+            width: 15px;
+            height: 15px;
+            background-color: rgb(255, 102, 0);
             border-radius: 50%;
             top: -10px;
             position: absolute;
