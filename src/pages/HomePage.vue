@@ -71,13 +71,13 @@
               <div class="p-3"> </div>
             </section>
           </div>
-          <div class="col-10">
+          <!-- <div class="col-10">
             <section class="card bg-grey" style="height: 20vh;">
               <div class="">Full-Stack</div>
               <div class="">CodeWorks 2023</div>
               <div class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, repellendus!</div>
             </section>
-          </div>
+          </div> -->
         </section>
       </div>
       <div class="col-md-6 col-12 d-flex justify-content-end">

@@ -24,6 +24,12 @@ export default {
 </script>
 <style lang="scss">
 @import "./assets/scss/main.scss";
+.bold{
+  font-weight: bold;
+}
+.italic{
+  font-style: italic;
+}
 .lobster-font{
   font-family: 'Lobster', cursive;
 }

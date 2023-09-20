@@ -56,18 +56,18 @@
           </div>
           <div class="col-md-10 col-12">
             <section class="card bg-grey my-2">
-              <div class="bold fs-4 px-3">Computer Science Degree</div>
+              <div class="bold fs-4 px-3">Computer Science </div>
               <div class="italic bold px-3">College of Western Idaho 2018-2020</div>
-              <div class="p-3">Started pursuing a Computer Science degree as part time while working. But not long after starting school I had a career change that left me with less time for school so i ended up not enrolling the next semester.</div>
+              <div class="p-3"> </div>
             </section>
           </div>
-          <div class="col-10">
+          <!-- <div class="col-10">
             <section class="card bg-grey" style="height: 20vh;">
               <div class="">Full-Stack</div>
               <div class="">CodeWorks 2023</div>
               <div class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, repellendus!</div>
             </section>
-          </div>
+          </div> -->
         </section>
       </div>
       <div class="col-md-6 col-12 d-flex justify-content-end">
