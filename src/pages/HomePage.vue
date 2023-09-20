@@ -106,6 +106,7 @@
           </div>
         </section>
       </div>
+      <div class="col-12" style="height: 10vh;"></div>
       <div class="col-md-4 col-12 text-white">
         <div class="col-12 text-white text-center m-2"><h3>Languages</h3></div>
         <div class="col-12">
