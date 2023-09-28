@@ -35,7 +35,7 @@
         <p class="text-white d-flex align-items-end justify-content-center caveat-font fs-4" style="height: 10vh;">Check out my Resume</p>
       </div>
       <div class="col-12">
-        <a  href="https://docs.google.com/document/d/1Y54YMec-Jw_kEM0jfOv4dBI7vSOf5hpw_muShCWnzx8/edit?usp=sharing" target="_blank" >
+        <a  href="https://docs.google.com/document/d/1H6POYTyBPsOafMH2guE4sfyyElunHDqannod7J7mdvA/edit?usp=sharing" target="_blank" >
           <h1 class=" text-center">Resume <i title="See my Resume!" class="mdi mdi-folder"></i></h1>
         </a>
       </div>
