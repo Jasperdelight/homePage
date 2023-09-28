@@ -110,7 +110,7 @@
       <div class="col-md-4 col-12 text-white">
         <div class="col-12 text-white text-center m-2"><h3>Languages</h3></div>
         <div class="col-12">
-          <p>Dotnet | C# | MySQL | SQL DataBases | Dapper | JavaScript | Vue.js | React | HTML | CSS | Node.Js | Express | MongoDB | Mongoose</p>
+          <p>Dotnet | C-Sharp <i class="mdi mdi-language-csharp"></i> | MySQL | SQL DataBases | Dapper | JavaScript <i class="mdi mdi-language-javascript"></i> | Vue.js <i class="mdi mdi-vuejs"></i> | React <i class="mdi mdi-react"></i> | HTML <i class="mdi mdi-language-html5"></i> | CSS <i class="mdi mdi-language-css3"></i> | Node.Js <i class="mdi mdi-nodejs"></i> | Express | MongoDB | Mongoose</p>
         </div>
       </div>
       <div class="col-md-4 col-12 text-white">
